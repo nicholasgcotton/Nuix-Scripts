@@ -1,5 +1,5 @@
 # Nuix Scripts Index
-An index of useful Nuix Workstation Scripts.
+An index of useful Nuix Workstation Scripts, including mine and others.
 
 ## Nuix Export To Evidence & Reports III (E&R III)
 https://github.com/nicholasgcotton/Nuix-Export-To-Evidence-Reports
@@ -22,6 +22,9 @@ https://github.com/nicholasgcotton/Nuix-Intake-Scripts
 Standard intake scripts for RCMP Nuix Workstation Intake, including "Default Quality Assurance and Tags v3" and "Email Chain Cluster Analysis v 1.1".
 
 The purpose of these scripts is to automate parts of the Nuix Workstation intake that I always do the same way.
+
+# Other Useful Nuix Scripts
+Scripts created by Nuix, see https://github.com/Nuix for a full list. 
 
 ## Nukers
 https://github.com/Nuix/Nukers
